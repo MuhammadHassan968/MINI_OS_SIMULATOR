@@ -234,5 +234,3 @@ This project is an educational tool inspired by standard OS textbooks and teachi
 
 
 ---
-
-If you want, I can commit this README.md directly to the `main` branch. I will create a commit that replaces the current README content. Do you want me to proceed and push the new README now?
